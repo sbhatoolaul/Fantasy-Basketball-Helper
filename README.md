@@ -9,4 +9,4 @@ I originally created this project because you often need to pay to see advanced 
 
 This project was also just created so I could refresh my web scraping knowledge.
 
-In the future, I plan to add more advanced stats and maybe even prediction tools.
+In the future (probably before next season), I plan to add more advanced stats and maybe even prediction tools. I won this year 😎.
